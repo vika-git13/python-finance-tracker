@@ -1,4 +1,4 @@
-# 🟣 Finance Tracker – Python Exam Project  
+# 🟣 Finance Tracker – Python Exam Project  (DAW 1ev)
 README (English + Spanish)
 
 ## Description
